@@ -1,0 +1,21 @@
+{
+  "name": "fis-smarty-plugin",
+  "version": "1.0.0",
+  "description": "修正smarty3.1.26版本以上取消getSubTemplate接口的问题",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinmudi/fis-smarty-plugin.git"
+  },
+  "keywords": [
+    "fis3-smarty"
+  ],
+  "author": "qinmudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinmudi/fis-smarty-plugin/issues"
+  },
+  "homepage": "https://github.com/qinmudi/fis-smarty-plugin#readme"
+}
